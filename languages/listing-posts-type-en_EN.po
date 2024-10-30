@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Listing Posts Type\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Luis Alberto Ochoa <soy@luisalberto.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+
+msgid "Recent Posts Type"
+msgstr ""
+
+msgid "Display the most recent Custom Posts Type in the sidebar."
+msgstr ""
+
+msgid "Number of posts to show:"
+msgstr ""
+
+msgid "Posts Type"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+

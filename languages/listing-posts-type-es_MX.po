@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_MX\n"
+
+msgid "Recent Posts Type"
+msgstr "Tipo de publicaciones recientes"
+
+msgid "Display the most recent Custom Posts Type in the sidebar."
+msgstr "Muestra las m&aacute;s recientes publicaciones personalizadas en la barra."
+
+msgid "Number of posts to show:"
+msgstr "N&uacute;mero de publicaciones a mostrar:"
+
+msgid "Posts Type"
+msgstr "Tipo de publicación"
+
+msgid "Title:"
+msgstr "T&iacute;tulo:"

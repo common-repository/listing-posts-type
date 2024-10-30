@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+msgid "Recent Posts Type"
+msgstr ""
+
+msgid "Display the most recent Custom Posts Type in the sidebar."
+msgstr ""
+
+msgid "Number of posts to show:"
+msgstr ""
+
+msgid "Posts Type"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
